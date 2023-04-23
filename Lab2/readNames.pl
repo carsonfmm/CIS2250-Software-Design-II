@@ -2,7 +2,7 @@
 
 #
 # readNames.pl
-#   Author(s): Carson Mifsud (1089936), Hamna Akram (1089570)
+#   Author(s): Carson Mifsud (), Hamna Akram ()
 #   Earlier contributors(s): Andrew Hamilton-Wright, Deborah Stacey
 #
 #   Project: Lab Assignment 1 Task 1 Script
